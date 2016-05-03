@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologiadogmat02fraigoog/theologiadogmat02fraigoog_0008.png"; bbox 0 0 3025 4725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 145 270 2881 505">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 145 270 2881 505">
+     <span class='ocr_line' id='line_1_1' title="bbox 145 270 2881 505; baseline 0 4220"><span class='ocrx_word' id='word_1_1' title='bbox 145 270 2881 505; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2858 592 2877 683">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2858 592 2877 683">
+     <span class='ocr_line' id='line_1_2' title="bbox 2858 592 2877 683; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 2858 592 2877 683; x_wconf 69' lang='grc' dir='ltr'>,ἕ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1561 2163 1919 2252">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1561 2163 1919 2252">
+     <span class='ocr_line' id='line_1_3' title="bbox 1561 2163 1919 2252; baseline -0.003 -25"><span class='ocrx_word' id='word_1_3' title='bbox 1561 2163 1919 2252; x_wconf 71' lang='grc' dir='ltr'>Ρνορνὶριῥ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 793 3993 2731 4097">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 793 3993 2731 4097">
+     <span class='ocr_line' id='line_1_4' title="bbox 793 3993 2731 4016; baseline -0.007 -2"><span class='ocrx_word' id='word_1_4' title='bbox 793 3993 2731 4016; x_wconf 52' lang='lat' dir='ltr'>ww-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1054 4048 2462 4097; baseline -0.008 -8"><span class='ocrx_word' id='word_1_5' title='bbox 1054 4055 1456 4097; x_wconf 66' lang='lat' dir='ltr'>Loxs-LE—SAUN1=R‚</span> <span class='ocrx_word' id='word_1_6' title='bbox 1476 4052 1721 4086; x_wconf 72' lang='lat' dir='ltr'><strong>mmmmm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1742 4051 1795 4083; x_wconf 70' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1816 4051 2124 4084; x_wconf 71' lang='lat' dir='ltr'><strong>Ll‘l&#39;flOGnAPmE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2144 4051 2197 4085; x_wconf 79' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_10' title='bbox 2217 4053 2257 4083; x_wconf 82' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_11' title='bbox 2280 4048 2462 4083; x_wconf 65' lang='lat' dir='ltr'><strong>Romam.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
